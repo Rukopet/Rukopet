@@ -5,8 +5,10 @@
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/egums?privacyName=true)](https://github.com/egums/badge42)
 
-- Principal School 21 projects:
-  Minishell team project, project where need copy some bash functionality (colloborator - [tsaian](https://github.com/tsaiyan))
+### **== Principal School 21 projects**:
+
+- Minishell team project, project where need copy some bash functionality (colloborator - [tsaiyan](https://github.com/tsaiyan))
+  
   
 <!--
 **Rukopet/Rukopet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
