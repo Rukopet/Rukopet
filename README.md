@@ -14,6 +14,11 @@
 - MiniRT solo project, graphic project with raycasting implementation
   
      [MINIRT](https://github.com/Rukopet/miniRT)
+     
+ - Libasm solo project, simple assembler library, introduction to the world of low-level programming
+
+     [LIBASM](https://github.com/Rukopet/libasm)
+     
 <!--
 **Rukopet/Rukopet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on CPP-modules and telegram bot
