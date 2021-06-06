@@ -11,7 +11,7 @@
 
      [MINISHELL](https://github.com/Rukopet/minishell)
      
-- MiniRT solo project **(C)**, graphic project with raycasting implementation
+- MiniRT solo project **(C)**, graphic project with ray-tracing implementation
   
      [MINIRT](https://github.com/Rukopet/miniRT)
      
