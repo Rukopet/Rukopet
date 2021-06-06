@@ -7,15 +7,19 @@
 
 ### **Principal School 21 projects**:
 
-- Minishell team project, project where need copy some bash functionality (colloborator - [tsaiyan](https://github.com/tsaiyan))
+- Minishell team project **(C)**, project where need copy some bash functionality (colloborator - [tsaiyan](https://github.com/tsaiyan))
 
      [MINISHELL](https://github.com/Rukopet/minishell)
      
-- MiniRT solo project, graphic project with raycasting implementation
+- MiniRT solo project **(C)**, graphic project with raycasting implementation
   
      [MINIRT](https://github.com/Rukopet/miniRT)
      
- - Libasm solo project, simple assembler library, introduction to the world of low-level programming
+ - Philosophers solo project **(C)**, project immersive into multi-threading theme
+
+     [PHILOSOPHERS](https://github.com/Rukopet/Philosophers)
+     
+ - Libasm solo project **(ASM)**, simple assembler library, introduction to the world of low-level programming
 
      [LIBASM](https://github.com/Rukopet/libasm)
      
