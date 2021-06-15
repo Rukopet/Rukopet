@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on CPP-modules and own telegram bot
+- 🔭 I’m currently working on CPP-modules and own telegram bot https://t.me/KazanGuidBot
 - 🌱 I’m currently learning C++/Python
 - 📫 How to reach me: :iphone: https://t.me/Rukopet
 
