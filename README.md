@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on CPP-modules and own telegram bot https://t.me/KazanGuidBot
+- 🔭 I’m currently working on Webserv and own telegram bot https://t.me/KazanGuidBot
 - 🌱 I’m currently learning C++/Python
 - 📫 How to reach me: :iphone: https://t.me/Rukopet
 
@@ -22,6 +22,8 @@
  - Libasm solo project **(ASM)**, simple assembler library, introduction to the world of low-level programming
 
      [LIBASM](https://github.com/Rukopet/libasm)
+ 
+ - Webserv team project **(C++)**, a project where we implement the main server side of nginx, with our own configs and other things. For event-driven polling, we use kqueue - kernel queue (mac epoll analog) (colloborators - [rallesia](https://github.com/rallesia), [anastasiya](https://github.com/dcordeli))
      
 
 
