@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Webserv and own telegram bot https://t.me/KazanGuidBot
+- 🔭 I’m currently working on Webserv and own telegram bot https://t.me/KazanGuidBot, prepare for datamasters!
 - 🌱 I’m currently learning C++/Python/JS
 - 📫 How to reach me: :iphone: https://t.me/Rukopet
 
