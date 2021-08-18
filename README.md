@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Webserv and own telegram bot https://t.me/KazanGuidBot; prepare for datamasters!
 - 🌱 I’m currently learning C++/Python/JS
-- 📫 How to reach me: :iphone: https://t.me/Rukopet
+- 📫 How to reach me: :iphone: https://t.me/Rukopet 
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/egums?privacyName=true)](https://github.com/egums/badge42)
 
