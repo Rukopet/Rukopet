@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning and interested in C++/Python/JS/Rust
 - 📫 How to reach me: :iphone: https://t.me/Rukopet 
 
-### **Principal School 21 projects**:
+### **Principal Ecole42 projects**:
 
 - Minishell team project **(C)**, project where need copy some bash functionality (colloborator - [tsaiyan](https://github.com/tsaiyan))
 
