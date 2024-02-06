@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Webserv and own telegram bot https://t.me/KazanGuidBot; prepare for datamasters!
-- 🌱 I’m currently learning and interested in C++/Python/JS/Go
+- 🌱 I’m currently learning and interested in C++/Python/Go
 - 📫 How to reach me: :iphone: https://t.me/Rukopet 
 
 ### **Principal Ecole42 projects**:
